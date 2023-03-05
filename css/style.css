@@ -139,7 +139,7 @@ header .mobile {
 }
 
 #sign-up-section.banner {
-	background-image: url(..Resources/images/banner-landingpage.jpg);
+	background-image: url(Resources/images/banner-landingpage.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
